@@ -22282,4 +22282,15 @@
         <Description>PC and Steam Support - Load Remover for KH2FM Randomizer Runs ONLY</Description>
         <Website>https://github.com/aliosgaming/KH2FM_Load_Remover-FOR-RANDOMIZER/blob/main/LiveSplit.KH2Randomizer.asl</Website>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Crash Bandicoot: N. Sane Trilogy</Game>
+            <Game>Crash Bandicoot: N. Sane Trilogy Category Extensions</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/McCrodi/NST-Autosplitter/main/CrashNST.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover for the PC version of the game. Currently stops the game during the loads. Autosplitting and autostart may happen in the future. (by McCrodi)</Description>
+    </AutoSplitter>
 </AutoSplitters>
